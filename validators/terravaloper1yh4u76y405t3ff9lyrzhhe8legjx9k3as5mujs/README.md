@@ -25,7 +25,7 @@ Every governance vote we cast is published with its reason at https://encapsulat
 
 - Email: security@encapsulate.xyz
 - X: https://x.com/encapHQ
-- Discord: https://discord.gg/q6cmGycxsr
+- Discord: https://discord.gg/PQJX5JVS8h
 - Telegram: @aditya_encapsulate
 
 ### Website
